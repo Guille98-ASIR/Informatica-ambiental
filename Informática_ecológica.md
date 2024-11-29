@@ -15,4 +15,4 @@ Este programa llevó a la creación de la herramienta EPEAT, que evalúa product
 
 Antes de la informática ecológica, el enfoque de la TI era producir dispositivos más rápidos y pequeños, pero la computación en la nube ha impulsado un enfoque más sostenible. Existen varias iniciativas y métricas para mejorar la sostenibilidad en la informática, como el Green500, que clasifica superordenadores según su eficiencia energética, y SPECPower, que mide el rendimiento y la potencia de los servidores para mejorar la eficiencia.
 
-![ecologia](
+![ecologia](img/ecologia.jpg)
