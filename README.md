@@ -25,6 +25,6 @@ https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/
 
 [DSR](https://github.com/JohnDSil)
 
-IBL
+[IBL](https://github.com/IvanBL8)
 
 [GCR](https://github.com/Guille98-ASIR)
