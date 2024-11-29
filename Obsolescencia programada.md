@@ -3,6 +3,7 @@
 
 La obsolescencia programada es el fenómeno por el cual los productos, especialmente electrónicos, están diseñados para volverse obsoletos o inutilizables después de un tiempo determinado. Esta práctica tiene un impacto directo en el consumo, la basura tecnológica y, en última instancia, en el medio ambiente. En este artículo se explican sus consecuencias y cómo podemos combatirla.
 
+![obsolescencia](obsolescencia.jpg)
 ---
 
 ### **¿Qué es la Obsolescencia Programada?**
