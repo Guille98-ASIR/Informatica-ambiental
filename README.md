@@ -1,4 +1,4 @@
-# Proyecto Protección mediambiental
+# Protección mediambiental
 
 ![waooooooo](img/no.jpg)
 
