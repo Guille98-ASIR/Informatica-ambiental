@@ -19,7 +19,7 @@ https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/
 
 **Autores**
 
-DSR
+[DSR](https://github.com/JohnDSil)
 
 IBL
 
