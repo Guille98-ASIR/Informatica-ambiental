@@ -4,11 +4,11 @@
 
 1.1.-[¿Qué es la contaminación ambiental?](Contaminacion_ambiental.md)
 
-1.2.-Residuos informáticos
+1.2.-[Residuos informáticos](Residuos_informáticos.md)
 
-1.3.-Obsolescencia programada
+1.3.-[Obsolescencia programada](Obsolescencia_programada.md)
 
-1.4.-Informática ecológica
+1.4.-[Informática ecológica](Informática_ecológica.md)
 
 **Referencias:**
 
