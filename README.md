@@ -20,6 +20,8 @@
 
 [Iberdrola](https://www.iberdrola.com/sostenibilidad/obsolescencia-programada)
 
+[Informática ecológica](https://www.ibm.com/es-es/think/topics/green-computing)
+
 
 **Autores**
 
