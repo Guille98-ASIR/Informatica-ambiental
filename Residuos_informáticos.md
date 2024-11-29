@@ -25,3 +25,5 @@ Los expertos en reciclaje electrónico recomiendan que amigos o familiares hered
  **Reciclar**
  Cuando el producto ya no funciona y no puede ser utilizado por alguien cercano se debe optar por el reciclaje. Una alternativa para el consumidor es entregar el aparato viejo en el establecimiento donde compra el nuevo o a alguna empresa que se
  dedique al reacondicionamiento electrónico.
+
+ ![RRR](img/RRR.jpg)
