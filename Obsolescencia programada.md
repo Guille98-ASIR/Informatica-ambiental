@@ -87,7 +87,7 @@ A nivel individual, existen varias maneras de mitigar el impacto de la obsolesce
 
 ### **Luchando Contra la Obsolescencia Programada**
 
-![lucha](img/pclucha)
+![lucha](img/pclucha.jpg)
 
 A nivel colectivo, se están tomando medidas para combatir la obsolescencia programada y fomentar una mayor durabilidad de los productos. Algunos ejemplos incluyen:
 
