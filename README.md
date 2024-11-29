@@ -2,7 +2,7 @@
 
 ## Índice
 
-1.1.-¿Qué es la contaminación ambiental?
+1.1.-[¿Qué es la contaminación ambiental?](Contaminacion_ambiental.md)
 
 1.2.-Residuos informáticos
 
@@ -21,4 +21,4 @@ DSR
 
 IBL
 
-GCR
+[GCR](https://github.com/Guille98-ASIR)
