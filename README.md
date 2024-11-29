@@ -14,7 +14,7 @@
 
 **Referencias:**
 
-https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/
+[Contaminación](https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/)
 
 [ChatGPT](https://chatgpt.com/)
 
