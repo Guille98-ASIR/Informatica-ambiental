@@ -11,8 +11,14 @@ Cada año se generan más de 50 millones de toneladas de basura electrónica, de
 
 
 **Plomo:** Comúnmente utilizado en soldaduras y pantallas.
+
+
 **Cadmio:** Encontrado en baterías recargables.
+
+
 **Mercurio:** Usado en pantallas LCD y otros componentes.
+
+
 **Níquel, antimonio y arsénico:** Sustancias peligrosas presentes en algunas partes de los dispositivos.
 
 
