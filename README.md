@@ -14,9 +14,11 @@
 
 **Referencias:**
 
-[Contaminacion ambiental](https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/)
+https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/
 
 [ChatGPT](https://chatgpt.com/)
+
+[Iberdrola](https://www.iberdrola.com/sostenibilidad/obsolescencia-programada)
 
 
 **Autores**
