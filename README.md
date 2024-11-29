@@ -12,7 +12,7 @@
 
 **Referencias:**
 
-[Conaminacion ambiental](https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/)
+[Contaminacion ambiental](https://ayudaenaccion.org/blog/sostenibilidad/tipos-contaminacion-ambiental/)
 
 [ChatGPT](https://chatgpt.com/)
 
