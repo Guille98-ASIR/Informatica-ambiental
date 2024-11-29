@@ -13,6 +13,7 @@ La obsolescencia programada se refiere a cuando los fabricantes diseñan product
 **Origen del Concepto:**  
 Este concepto se originó en la industria automotriz estadounidense en 1924, cuando Alfred P. Sloan, ejecutivo de General Motors, sugirió la idea de renovar modelos de coches cada año para mantener las ventas altas.
 
+
 ---
 
 ### **¿A Qué Productos Afecta?**
@@ -23,6 +24,8 @@ La obsolescencia programada no se limita solo a los dispositivos electrónicos, 
 - **Industria Automotriz:** Los coches a menudo tienen componentes que dejan de ser compatibles con los avances tecnológicos.
 - **Moda y Textiles:** La industria de la moda crea tendencias que hacen que las prendas de temporadas anteriores se perciban como "pasadas de moda".
 - **Software:** Algunos programas dejan de ser compatibles con versiones antiguas de hardware.
+
+![pc](img/pc.jpg)
 
 ---
 
@@ -64,6 +67,8 @@ El aumento de la basura tecnológica es uno de los problemas más serios derivad
 
 Además, la producción de nuevos dispositivos consume grandes cantidades de materias primas, algunas de ellas muy raras, como el coltán, que se usa en las baterías. Todo este proceso de fabricación y distribución contribuye significativamente a la contaminación y al cambio climático.
 
+![pcnaturaleza](img/pcbosque.jpg)
+
 ---
 
 ### **¿Qué Puedes Hacer Para Reducir la Basura Tecnológica?**
@@ -76,9 +81,13 @@ A nivel individual, existen varias maneras de mitigar el impacto de la obsolesce
    
 3. **Reciclar:** Cuando un producto llegue al final de su vida útil, asegúrate de llevarlo a un centro de reciclaje adecuado. El reciclaje de materiales como plástico, metal y vidrio ayuda a reducir la demanda de recursos naturales.
 
+![basura](img/basura.jpg)
+
 ---
 
 ### **Luchando Contra la Obsolescencia Programada**
+
+![lucha](img/pclucha.jpg)
 
 A nivel colectivo, se están tomando medidas para combatir la obsolescencia programada y fomentar una mayor durabilidad de los productos. Algunos ejemplos incluyen:
 
