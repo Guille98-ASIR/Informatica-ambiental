@@ -25,8 +25,8 @@
 
 **Autores**
 
-[DSR](https://github.com/JohnDSil)
+[DSR](https://github.com/JohnDSil/Informatica-ambiental)
 
-[IBL](https://github.com/IvanBL8)
+[IBL](https://github.com/IvanBL8/Informatica-ambiental)
 
-[GCR](https://github.com/Guille98-ASIR)
+[GCR](https://github.com/Guille98-ASIR/Informatica-ambiental)
